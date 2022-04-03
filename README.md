@@ -1,6 +1,6 @@
  👋 Hi, my name is Courtney Oaks.
 
-I’m an aspiring data analyst interested in anything to do with data analysis. I am specically interested in data analysis in the fields of hospitality, revenue, market, and marketing. 
+I’m an aspiring data analyst interested in anything to do with data analysis. I am specifically interested in data analysis in the fields of vacation rentals, revenue, and marketing. 
 
 I recently completed Coursera's Data Analytics certification and currently enrolled in SQL for Data Science by University of California, Davis. I have knowledge with Goggle Sheets/Excel, SQL, R, and Tableau.
 
