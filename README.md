@@ -1,12 +1,16 @@
-Hello, my name is Courtney Oaks. 👋🏼
+# Hello, my name is Courtney Oaks 👋🏼
 
-I am looking to put my knowledge of data analysis to work with a great company!
+#### **Vacation Rental Account Manager. Aspiring data analyst. Lover of the outdoors.**
 
-I recently completed Coursera's Data Analytics certification and currently enrolled in SQL for Data Science by University of California, Davis. 
-- SQL
-- Tableau
-- Google Sheets/Excel
+I am interested in all things data to better understand trends, market data, rates, marketing and insights into the performance of my rental home portfolio. I have 21 years experience in the hospitality industry and am looking to get into a more data centered role. 
+
+📚 I recently completed Coursera's Data Analytics Professional Certification and am currently enrolled with the University of California, Davis working toward completion of SQL for Data Science Specialization certification.
+- SQL 
+- Tableau data visualizations
+- Google Sheets/Excel functions and formulas
 - RStudio with R programming language 
 
-📫 I can be reached at courtney.a.oaks@gmail.com or at https://www.linkedin.com/in/courtney-oaks/
-
+#### Connect with me
+- 📬 Email: courtney.a.oaks@gmail.com
+- 💻 LinkedIn: https://www.linkedin.com/in/courtney-oaks/
+- 📸 Instagram: https://www.instagram.com/courtney_atx/
