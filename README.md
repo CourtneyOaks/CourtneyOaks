@@ -1,12 +1,12 @@
- 👋 Hi, my name is Courtney Oaks.
+Hello, my name is Courtney Oaks. 👋🏼
 
-I’m an aspiring data analyst interested in anything to do with data analysis. I am specifically interested in data analysis in the fields of vacation rentals, revenue, and marketing. 
+I am looking to put my knowledge of data analysis to work with a great company!
 
-I recently completed Coursera's Data Analytics certification and currently enrolled in SQL for Data Science by University of California, Davis. I have knowledge with Goggle Sheets/Excel, SQL, R, and Tableau.
+I recently completed Coursera's Data Analytics certification and currently enrolled in SQL for Data Science by University of California, Davis. 
+- SQL
+- Tableau
+- Google Sheets/Excel
+- RStudio with R programming language 
 
 📫 I can be reached at courtney.a.oaks@gmail.com or at https://www.linkedin.com/in/courtney-oaks/
 
-<!---
-CourtneyOaks/CourtneyOaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
