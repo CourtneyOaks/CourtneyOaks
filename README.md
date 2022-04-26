@@ -13,4 +13,3 @@ I am interested in all things data to better understand trends, market data, rat
 #### Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/courtney-oaks/
-- 📸 Instagram: https://www.instagram.com/courtney_atx/
