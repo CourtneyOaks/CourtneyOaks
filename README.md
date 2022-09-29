@@ -1,6 +1,6 @@
 # Hello, my name is Courtney Oaks 👋🏼
 
-#### **Revenue Optimization Analyst. Adventure seeker and lover of the outdoors.**
+#### **Revenue Optimization Analyst, adventure seeker and lover of the outdoors.**
 
 I am interested in all things data to better understand trends, market data, rates, marketing and insights into the performance of my rental home portfolio.
 
