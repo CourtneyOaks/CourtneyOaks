@@ -2,13 +2,21 @@
 
 #### **Revenue Optimization Analyst, adventure seeker and lover of the outdoors.**
 
-I am interested in all things data to better understand trends, market data, rates, marketing and insights into the performance of my rental home portfolio.
+I am interested in all things data to better understand trends, market data, revenue, marketing and insights into the performance of our rental home portfolio.
 
-📚 I recently completed Coursera's Data Analytics Professional Certification and am currently enrolled with the University of California, Davis working toward completion of SQL for Data Science Specialization certification.
-- SQL 
-- Tableau data visualizations
-- Google Sheets/Excel functions and formulas
-- RStudio with R programming language 
+💻 Currently enrolled:
+- Everyday Excel Specialization (University of Colorado, Boulder)
+- SQL Specialization (Vertabelo Academy)
+- Tableau Specialization (Maven Analytics - CPE accredited) 
+
+📚 Completed courses:
+- Data Analytics Professional Certification (Google certification program)
+- Data Analysis with R Programming (Google certification program)
+- SQL for Data Science (University of California, Davis)
+- Data Wrangling, Analydid and AB Testing with SQL (University of California, Davis)
+- Data Analysis in Excel (DataCamp)
+- Introduction to SQL (DataCamp)
+- Joining Data in SQL (DataCamp)
 
 #### Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
