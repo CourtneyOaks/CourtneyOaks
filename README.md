@@ -13,7 +13,7 @@ I am interested in all things data to better understand trends, market data, rev
 - Data Analytics Professional Certification (Google certification program)
 - Data Analysis with R Programming (Google certification program)
 - SQL for Data Science (University of California, Davis)
-- Data Wrangling, Analydid and AB Testing with SQL (University of California, Davis)
+- Data Wrangling, Analysis and AB Testing with SQL (University of California, Davis)
 - Data Analysis in Excel (DataCamp)
 - Introduction to SQL (DataCamp)
 - Joining Data in SQL (DataCamp)
