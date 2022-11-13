@@ -5,7 +5,7 @@
 I am interested in all things data to better understand trends, market data, revenue, marketing and insights into the performance of our rental home portfolio.
 
 💻 Currently enrolled:
-- Everyday Excel Specialization (University of Colorado, Boulder)
+- Everyday Excel Specialization (University of Colorado, Boulder), Courses 2 and 3
 - SQL Specialization (Vertabelo Academy)
 - Tableau Specialization (Maven Analytics - CPE accredited) 
 
@@ -14,6 +14,7 @@ I am interested in all things data to better understand trends, market data, rev
 - Data Analysis with R Programming (Google certification program)
 - SQL for Data Science (University of California, Davis)
 - Data Wrangling, Analysis and AB Testing with SQL (University of California, Davis)
+- Everyday Excel Specialization (University of Colorado, Boulder), Courses 1
 - Data Analysis in Excel (DataCamp)
 - Introduction to SQL (DataCamp)
 - Joining Data in SQL (DataCamp)
