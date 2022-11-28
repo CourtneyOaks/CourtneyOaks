@@ -21,4 +21,5 @@ I am interested in all things data to better understand trends, market data, rev
 
 #### Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
+- 👩🏻‍💻 Portfolio Page: https://courtneyoaks-portfolio.carrd.co/
 - 💻 LinkedIn: https://www.linkedin.com/in/courtney-oaks/
