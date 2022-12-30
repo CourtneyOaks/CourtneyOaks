@@ -2,7 +2,8 @@
 
 #### **Revenue Optimization Analyst, adventure seeker and lover of the outdoors.**
 
-I am interested in all things data to better understand trends, market data, revenue, marketing and insights into the performance of our rental home portfolio.
+Certified data analyst who strives to provide businesses with insights and data-driven strategies to improve business processes, and overall revenue.
+Open to new and exciting opportunities, continued learning, and collaboration. Let's connect!
 
 💻 Currently enrolled:
 - SQL Specialization (Vertabelo Academy)
