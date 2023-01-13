@@ -23,3 +23,4 @@ Open to new and exciting opportunities, continued learning, and collaboration. L
 - 📬 Email: courtney.a.oaks@gmail.com
 - 📊 Portfolio Page: https://courtneyoaks-portfolio.carrd.co/
 - 👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/courtney-oaks/
+- 📈 Tableau: https://public.tableau.com/app/profile/courtney2324#!/
