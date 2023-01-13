@@ -7,17 +7,13 @@ Open to new and exciting opportunities, continued learning, and collaboration. L
 
 💻 Currently enrolled:
 - SQL Specialization (Vertabelo Academy)
-- Tableau Specialization (Maven Analytics - CPE accredited) 
+- Data Visualization Expert (Maven Analytics - CPE accredited) 
 
 📚 Completed courses:
 - Data Analytics Professional Certification (Google certification program)
-- Data Analysis with R Programming (Google certification program)
 - SQL for Data Science (University of California, Davis)
 - Data Wrangling, Analysis and AB Testing with SQL (University of California, Davis)
 - Everyday Excel Specialization (University of Colorado, Boulder)
-- Data Analysis in Excel (DataCamp)
-- Introduction to SQL (DataCamp)
-- Joining Data in SQL (DataCamp)
 
 #### Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
