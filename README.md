@@ -10,10 +10,14 @@ Open to new and exciting opportunities, continued learning, and collaboration. L
 - Data Visualization Expert (Maven Analytics - CPE accredited) 
 
 📚 Completed courses:
-- Data Analytics Professional Certification (Google certification program)
-- SQL for Data Science (University of California, Davis)
-- Data Wrangling, Analysis and AB Testing with SQL (University of California, Davis)
-- Everyday Excel Specialization (University of Colorado, Boulder)
+- **Data Analytics Professional**, Google
+- **Everyday Excel**, University of Colorado, Boulder
+- **SQL for Data Science**, University of California, Davis
+- **Data Wrangling, Analysis, and AB Testing with SQL**, University of California, Davis
+
+📖 Current enrollments: 
+- **Data Analytics Certificate**, Break Into Tech
+- **Data Visualization Expert**, Maven Analytics (*CPE accredited*)
 
 #### Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
