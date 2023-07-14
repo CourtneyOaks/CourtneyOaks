@@ -2,12 +2,8 @@
 
 #### **Revenue Optimization Analyst, adventure seeker and lover of the outdoors.**
 
-Certified data analyst who strives to provide businesses with insights and data-driven strategies to improve business processes, and overall revenue.
+Certified data analyst who strives to provide businesses with insights and data-driven strategies to improve business processes and overall revenue.
 Open to new and exciting opportunities, continued learning, and collaboration. Let's connect!
-
-💻 Currently enrolled:
-- SQL Specialization (Vertabelo Academy)
-- Data Visualization Expert (Maven Analytics - CPE accredited) 
 
 📚 Completed courses:
 - **Data Analytics Professional**, Google
