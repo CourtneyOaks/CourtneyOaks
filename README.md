@@ -5,6 +5,7 @@
 Certified data analyst who strives to provide businesses with insights and data-driven strategies to improve business processes and overall revenue.
 Open to new and exciting opportunities, continued learning, and collaboration. Let's connect!
 
+
 📚 Completed courses:
 - **Data Analytics Professional**, Google
 - **Everyday Excel**, University of Colorado, Boulder
@@ -14,9 +15,6 @@ Open to new and exciting opportunities, continued learning, and collaboration. L
 - **Train the Trainer Foundation: Adult Education Mastery**, Jason Teteak, Udemy
 - **Tableau Desktop Certification**, Maven Analytics (*CPE accredited*)
 
-📖 Current enrollments: 
-- **Data Analytics Certificate**, Break Into Tech
-- **Data Visualization Expert**, Maven Analytics (*CPE accredited*)
 
 #### Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
