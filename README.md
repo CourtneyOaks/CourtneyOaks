@@ -16,7 +16,7 @@ Open to new and exciting opportunities, continued learning, and collaboration. L
 - **Tableau Desktop Certification**, Maven Analytics (*CPE accredited*)
 
 
-#### Connect with me
+💬 Connect with me
 - 📬 Email: courtney.a.oaks@gmail.com
 - 📊 Portfolio Page: https://courtneyoaks-portfolio.carrd.co/
 - 👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/courtney-oaks/
