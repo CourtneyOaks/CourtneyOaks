@@ -1,4 +1,4 @@
-# Hello, my name is Courtney Oaks 👋🏼
+# Hello, my name is Courtney Nauert 👋🏼
 
 #### **Revenue Optimization Analyst, adventure seeker and lover of the outdoors.**
 
