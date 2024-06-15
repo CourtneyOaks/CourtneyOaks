@@ -9,7 +9,10 @@ Open to new and exciting opportunities, continued learning, and collaboration. L
 - **Data Analytics Professional**, Google
 - **Everyday Excel**, University of Colorado, Boulder
 - **SQL for Data Science**, University of California, Davis
-- **Data Wrangling, Analysis, and AB Testing with SQL**, University of California, Davis
+- **The Three Pillars of Effective Communication**, LinkedIn Learning
+- **Power BI Desktop for Business Intelligence**, Maven Analytics (*CPE accredited*)
+- **Train the Trainer Foundation: Adult Education Mastery**, Jason Teteak, Udemy
+- **Tableau Desktop Certification**, Maven Analytics (*CPE accredited*)
 
 📖 Current enrollments: 
 - **Data Analytics Certificate**, Break Into Tech
