@@ -1,6 +1,6 @@
 # Hello, my name is Courtney Nauert 👋🏼
 
-#### **Yield Management Analyst - Strategy & Revenue Growth, adventure seeker and lover of the outdoors.**
+#### **Yield Management Analyst - Strategy & Revenue Growth**
 
 Certified data analyst who strives to provide businesses with insights and data-driven strategies to improve business processes and overall revenue.
 Open to new and exciting opportunities, continued learning, and collaboration. Let's connect!
